@@ -35,74 +35,88 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The tragedy of Orestes, vvritten by Thomas Goffe Master of Arts, and student of Christs Church in Ox
+
+1. The Prologue.
+
 #####Body#####
 
-1. Scaena prima.
+1. The names of the Actors.
 
-1. SCEN. II.
+1. The Tragedie of ORESTES.
 
-1. SCEN. III.
+    _ Scaena prima.
 
-1. SCEN. IV.
+    _ SCEN. II.
 
-1. SCEN. V.
+    _ SCEN. III.
 
-1. SCEN. VI.
+    _ SCEN. IV.
 
-1. SCEN. I.
+    _ SCEN. V.
 
-1. ACT. II. SCEN. II.
+    _ SCEN. VI.
 
-1. SCEN. III.
+1. ACT. II.
 
-1. SCEN. IIII.
+    _ SCEN. I.
 
-1. SCEN. V.
+    _ ACT. II. SCEN. II.
 
-1. SCEN. I.
+    _ SCEN. III.
 
-1. SCEN. II.
+    _ SCEN. IIII.
 
-1. SCEN. III.
+    _ SCEN. V.
 
-1. SCEN. IV.
+1. ACT. III.
 
-1. SCEN. V.
+    _ SCEN. I.
 
-1. SCEN. VI.
+    _ SCEN. II.
 
-1. SCEN. I.
+    _ SCEN. III.
 
-1. SCEN. II.
+    _ SCEN. IV.
 
-1. SCEN. III.
+    _ SCEN. V.
 
-1. SCEN. IV.
+    _ SCEN. VI.
 
-1. SCEN. V.
+1. ACT. IIII.
 
-1. SCEN. VI.
+    _ SCEN. I.
 
-1. SCEN. VII.
+    _ SCEN. II.
 
-1. SCEN. VIII.
+    _ SCEN. III.
 
-1. SCEN. I.
+    _ SCEN. IV.
 
-1. SCEN. II.
+    _ SCEN. V.
 
-1. SCEN. III.
+    _ SCEN. VI.
 
-1. SCEN. IV.
+    _ SCEN. VII.
 
-1. SCEN. V.
+    _ SCEN. VIII.
 
-1. SCEN. VI.
+1. ACT. V.
 
-1. SCEN. VII.
+    _ SCEN. I.
 
-1. SCEN. VIII.
+    _ SCEN. II.
+
+    _ SCEN. III.
+
+    _ SCEN. IV.
+
+    _ SCEN. V.
+
+    _ SCEN. VI.
+
+    _ SCEN. VII.
+
+    _ SCEN. VIII.
 
 **Types of content**
 
